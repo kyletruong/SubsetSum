@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "27CF076620847A9600E89052"
-               BuildableName = "lab1"
-               BlueprintName = "lab1"
-               ReferencedContainer = "container:lab1.xcodeproj">
+               BuildableName = "SubsetSum"
+               BlueprintName = "SubsetSum"
+               ReferencedContainer = "container:SubsetSum.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "27CF076620847A9600E89052"
-            BuildableName = "lab1"
-            BlueprintName = "lab1"
-            ReferencedContainer = "container:lab1.xcodeproj">
+            BuildableName = "SubsetSum"
+            BlueprintName = "SubsetSum"
+            ReferencedContainer = "container:SubsetSum.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "27CF076620847A9600E89052"
-            BuildableName = "lab1"
-            BlueprintName = "lab1"
-            ReferencedContainer = "container:lab1.xcodeproj">
+            BuildableName = "SubsetSum"
+            BlueprintName = "SubsetSum"
+            ReferencedContainer = "container:SubsetSum.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "27CF076620847A9600E89052"
-            BuildableName = "lab1"
-            BlueprintName = "lab1"
-            ReferencedContainer = "container:lab1.xcodeproj">
+            BuildableName = "SubsetSum"
+            BlueprintName = "SubsetSum"
+            ReferencedContainer = "container:SubsetSum.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

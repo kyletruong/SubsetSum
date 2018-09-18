@@ -25,7 +25,7 @@
 
 /* Begin PBXFileReference section */
 		279EFD462150C46600311E28 /* Sublist.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Sublist.h; sourceTree = "<group>"; };
-		27CF076720847A9600E89052 /* lab1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = lab1; sourceTree = BUILT_PRODUCTS_DIR; };
+		27CF076720847A9600E89052 /* SubsetSum */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SubsetSum; sourceTree = BUILT_PRODUCTS_DIR; };
 		27CF076A20847A9600E89052 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		27CF077220847B1100E89052 /* iTunes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iTunes.h; sourceTree = "<group>"; };
 		27CF078220847B1400E89052 /* iTunes.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = iTunes.cpp; sourceTree = "<group>"; };
@@ -47,7 +47,7 @@
 			isa = PBXGroup;
 			children = (
 				27CF078A2084973000E89052 /* itunes_file.txt */,
-				27CF076920847A9600E89052 /* lab1 */,
+				27CF076920847A9600E89052 /* SubsetSum */,
 				27CF076820847A9600E89052 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,12 +55,12 @@
 		27CF076820847A9600E89052 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				27CF076720847A9600E89052 /* lab1 */,
+				27CF076720847A9600E89052 /* SubsetSum */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		27CF076920847A9600E89052 /* lab1 */ = {
+		27CF076920847A9600E89052 /* SubsetSum */ = {
 			isa = PBXGroup;
 			children = (
 				27CF076A20847A9600E89052 /* main.cpp */,
@@ -68,15 +68,15 @@
 				27CF078220847B1400E89052 /* iTunes.cpp */,
 				27CF077220847B1100E89052 /* iTunes.h */,
 			);
-			path = lab1;
+			path = SubsetSum;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		27CF076620847A9600E89052 /* lab1 */ = {
+		27CF076620847A9600E89052 /* SubsetSum */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 27CF076E20847A9600E89052 /* Build configuration list for PBXNativeTarget "lab1" */;
+			buildConfigurationList = 27CF076E20847A9600E89052 /* Build configuration list for PBXNativeTarget "SubsetSum" */;
 			buildPhases = (
 				27CF076320847A9600E89052 /* Sources */,
 				27CF076420847A9600E89052 /* Frameworks */,
@@ -86,9 +86,9 @@
 			);
 			dependencies = (
 			);
-			name = lab1;
+			name = SubsetSum;
 			productName = lab1;
-			productReference = 27CF076720847A9600E89052 /* lab1 */;
+			productReference = 27CF076720847A9600E89052 /* SubsetSum */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 27CF076220847A9600E89052 /* Build configuration list for PBXProject "lab1" */;
+			buildConfigurationList = 27CF076220847A9600E89052 /* Build configuration list for PBXProject "SubsetSum" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -117,7 +117,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				27CF076620847A9600E89052 /* lab1 */,
+				27CF076620847A9600E89052 /* SubsetSum */,
 			);
 		};
 /* End PBXProject section */
@@ -265,7 +265,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		27CF076220847A9600E89052 /* Build configuration list for PBXProject "lab1" */ = {
+		27CF076220847A9600E89052 /* Build configuration list for PBXProject "SubsetSum" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				27CF076C20847A9600E89052 /* Debug */,
@@ -274,7 +274,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		27CF076E20847A9600E89052 /* Build configuration list for PBXNativeTarget "lab1" */ = {
+		27CF076E20847A9600E89052 /* Build configuration list for PBXNativeTarget "SubsetSum" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				27CF076F20847A9600E89052 /* Debug */,
